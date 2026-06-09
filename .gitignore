@@ -19,3 +19,12 @@ models/
 *.jsonl
 wandb/
 /ephemeral/
+
+train-llm-from-scratch-study/.obsidian/workspace.json
+train-llm-from-scratch-study/.obsidian/workspace-mobile.json
+train-llm-from-scratch-study/.obsidian/cache/
+train-llm-from-scratch-study/.trash/
+train-llm-from-scratch-study/.obsidian/plugins/*/data.json
+
+# Accidental root-level Obsidian vault settings
+.obsidian/
